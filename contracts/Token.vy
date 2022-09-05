@@ -5,7 +5,7 @@ from vyper.interfaces import ERC20
 implements: ERC20
 
 # ERC20 Token Metadata
-NAME: constant(String[20]) = "apingintoapeworks"
+NAME: constant(String[20]) = "aia"
 SYMBOL: constant(String[5]) = "aia"
 DECIMALS: constant(uint8) = 18
 
